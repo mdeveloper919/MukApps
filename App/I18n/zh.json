@@ -1,0 +1,25 @@
+{
+  "yourlocation": "您的位置",
+  "pleaseselect": "请选择...",
+  "zoom+": "放大",
+  "zoom-": "缩小",
+  "locate": "您的位置",
+  "normal": "地图",
+  "satellite": "卫星",
+  "traffic": "交通",
+
+  "search": "搜索...",
+  "nosearch": "没有搜索结果",
+
+  "category": "分类",
+  "aboutmukapps": "关于",
+  "maps": "地图",
+  "share": "共享",
+
+  "FnB" : "食物",
+  "Hotel" : "宾馆",
+  "Restaurant" : "餐馆",
+  "CoffeeShop" : "咖啡店",
+
+  "wechatalert": "没有安装微信软件，请您安装微信之后再试"
+}
